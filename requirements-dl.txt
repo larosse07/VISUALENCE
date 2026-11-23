@@ -1,0 +1,3 @@
+# Deep Learning (instalar aparte; TensorFlow requiere Python 3.10 – 3.12)
+tensorflow
+torch

@@ -1,0 +1,25 @@
+{
+  "modelo": "Random Forest",
+  "entrenado": "2026-10-27T08:48:37",
+  "sklearn": "1.9.1",
+  "python": "3.12.10",
+  "features": [
+    "dia_semana",
+    "formato",
+    "tipo_contenido",
+    "hora",
+    "len_copy",
+    "num_hashtags",
+    "tiene_cta",
+    "tiene_urgencia",
+    "tiene_pregunta",
+    "tiene_emoji",
+    "brillo_img",
+    "contraste_img",
+    "saturacion_img",
+    "pct_texto_en_img",
+    "tiene_rostro",
+    "copy"
+  ],
+  "nota": "Reentrenado con train+val; test no se usó."
+}
